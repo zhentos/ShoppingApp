@@ -1,5 +1,7 @@
 ﻿This repository contains the backend API for the Shopping App, built using .NET 8. The API is designed to provide robust and efficient access to the application's data and services.
+
 Features
+
 RESTful API: The backend is structured as a RESTful service, allowing easy integration with various frontend applications.
 SQLite Database: Utilizes SQLite for lightweight data storage, making it easy to set up and manage.
 Automated Mapping: Employs AutoMapper for efficient object-to-object mapping, simplifying data transfer between layers.
@@ -34,9 +36,11 @@ bash
 dotnet run
 
 API Documentation
+
 Once the application is running, you can access the Swagger UI at https://localhost:7090 (or your configured port) to explore the available endpoints and their documentation.
 
 Contributing
+
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any enhancements or bug fixes.
 
 License
